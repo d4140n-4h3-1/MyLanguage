@@ -38,12 +38,6 @@
 
 There is no "Q" in spelling. "K" takes that job with the help of "u". 
 
-| English | My Spelling |
-|---------|-------------|
-| Bureau  | *byr-reo*   |
-
-**Note:** Say byr-reo quickly, with the first part sounding like b-yrr, so it comes close to the flow of “Pierre.” Do not read it as "bei-reo".
-
 ---
 
 ## Word Formation Patterns
