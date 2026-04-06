@@ -1,0 +1,3 @@
+| Animal  | Word     |
+|---------|----------|
+| Chicken | *gallus* | 
